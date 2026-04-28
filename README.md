@@ -49,9 +49,8 @@
 🇧🇩 GitHub Codespaces terminal-এ এই command চালাও।  
 🇮🇳 GitHub Codespaces terminal में यह command चलाएं।
 
-```sudo apt update
-sudo apt install nodejs npm
-```
+```sudo apt update```
+```sudo apt install nodejs npm```
 
 ```bash
 npm install -g genlayer
