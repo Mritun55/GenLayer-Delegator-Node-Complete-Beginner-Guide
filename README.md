@@ -105,7 +105,7 @@ Account 'mywallet' created at: /home/codespace/.genlayer/keystores/mywallet.json
 
 **Step 4a — Copy to workspace:**
 ```bash
-cp /home/codespace/.genlayer/keystores/mywallet.json /workspaces/Genlayer-Deligator-node/
+cp /home/codespace/.genlayer/keystores/mywallet.json /workspaces/genlayer/
 ```
 
 **Step 4b — Verify:**
