@@ -169,11 +169,11 @@ Network set to testnet-asimov
 
 ## 7. Get 50 GEN Tokens
 
-🇬🇧 Send at least **50 GEN** testnet tokens to your wallet address from Step 5. You can get tokens from the GenLayer Discord/Telegram faucet or request from the GenLayer team.
+🇬🇧 First Claim Faucet Token to your main wallet here: https://testnet-faucet.genlayer.foundation/, Then Send at least **55 GEN** testnet tokens Main Wallet to your This wallet address from Step 5.
 
-🇧🇩 Step 5-এর wallet address-এ ন্যূনতম **50 GEN** testnet token পাঠাও। GenLayer Discord/Telegram faucet থেকে নিতে পারো অথবা GenLayer team-এর কাছে request করো।
+🇧🇩 প্রথমে এখানে আপনার মূল ওয়ালেটে ফসেট টোকেন ক্লেইম করুন: https://testnet-faucet.genlayer.foundation/, তারপর Step 5-এর wallet address-এ ন্যূনতম **55 GEN** testnet token পাঠান আপনার Main Wallet থেকে। 
 
-🇮🇳 Step 5 के wallet address पर कम से कम **50 GEN** testnet token भेजें। GenLayer Discord/Telegram faucet से प्राप्त करें या GenLayer team से request करें।
+🇮🇳 सबसे पहले यहां अपने मुख्य वॉलेट में फाउसेट टोकन प्राप्त करें: https://testnet-faucet.genlayer.foundation/, फिर चरण 5 में दिए गए वॉलेट पते पर अपने मुख्य वॉलेट से कम से कम **55 GEN** टेस्टनेट टोकन भेजें।
 
 > ⏳ 🇬🇧 Tokens may take a few minutes to arrive.  
 > ⏳ 🇧🇩 Token আসতে কয়েক মিনিট লাগতে পারে।  
