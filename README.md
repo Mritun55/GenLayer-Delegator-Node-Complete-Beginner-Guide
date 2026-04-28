@@ -1,2 +1,4 @@
 # GenLayer-Delegator-Node-Complete-Beginner-Guide
-ভাষা: বাংলা + English (Beginner Friendly) লেখক: Mritunjoy নেটওয়ার্ক: Testnet Asimov
+🇬🇧 English | 🇧🇩 বাংলা | 🇮🇳 हिंदी
+Author / লেখক / लेखक: Mritunjoy
+Network / নেটওয়ার্ক / नेटवर्क: Testnet Asimov
