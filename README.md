@@ -190,6 +190,8 @@ Network set to testnet-asimov
 🇧🇩 যে validator-এর কাছে delegate করবে তার list দেখো।  
 🇮🇳 उन active validators की list देखें जिन्हें delegate करना है।
 
+Explore: https://explorer-asimov.genlayer.com/validators?status=active
+
 ```bash
 genlayer staking active-validators --network testnet-asimov
 ```
